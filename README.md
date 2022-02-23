@@ -27,5 +27,5 @@ pytorch 1.10.2
 *注：由于训练集较少，神经网络与各种参数并未选好，所以分类的准确率不是很高
 
 #### 项目开源地址
-https://githum.com
+https://github.com/bendangmi/Elderly_fall_predict_pytorch
 
