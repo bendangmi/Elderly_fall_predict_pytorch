@@ -13,8 +13,8 @@ pytorch 1.10.2
 1. Data文件夹存放训练数据集
 2. Data_visualization文件夹存放数据可视化文件
 3. Model文件夹放神经网络模型
-4. Predict文件夹存放两种预测方式： 
-   第一种：predict_img.py文件可以用来预测本地图片类别
+4. Predict文件夹存放两种预测方式： </br>
+   第一种：predict_img.py文件可以用来预测本地图片类别</br>
    第二种：predict_camera.py可以调用计算机摄像头预测摄像头拍摄到的物体类别
 5. Train_model文件夹存放自己训练好的模型
 6. Text_data文件夹存放测试数据，可提供视频and图片进行测试
